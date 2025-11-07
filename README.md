@@ -1,4 +1,4 @@
-# Hi there, I'm Christina 👋
+# Hi there, I'm Christina 426774
 
 ![avatar](/.github/profile/Christina-avatar.png)
 
@@ -14,9 +14,9 @@ Education: Central Piedmont Community College — Information Technology (Full S
 
 I build small web apps and learning projects using the MERN stack, PHP, and modern frontend tooling. I'm a student and hobbyist developer focused on practical, project-based learning and improving my skills through coursework and hands-on projects.
 
-- 🔭 Currently building: MERN full-stack projects and course assignments
-- 🌱 Learning: Advanced JavaScript, Node.js, and databases
-- 💬 Ask me about: web dev fundamentals, deploying small apps, and school projects
+- 426774 Currently building: MERN full-stack projects and course assignments
+- 426774 Learning: Advanced JavaScript, Node.js, and databases
+- 426774 Ask me about: web dev fundamentals, deploying small apps, and school projects
 
 ---
 
@@ -45,13 +45,6 @@ Here are some repositories you can check out (recent or notable):
 ## MLH & Hacking
 
 I use Major League Hacking (MLH) resources to find events and learning opportunities. (MLH profile data was used to pre-fill education details.)
-
----
-
-## Stats
-
-- GitHub: [@christinanm](https://github.com/christinanm)
-- Public repos: 8
 
 ---
 
