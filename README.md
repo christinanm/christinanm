@@ -14,9 +14,9 @@ Education: Central Piedmont Community College — Information Technology (Full S
 
 I build small web apps and learning projects using the MERN stack, PHP, and modern frontend tooling. I'm a student and hobbyist developer focused on practical, project-based learning and improving my skills through coursework and hands-on projects.
 
-🩵  Currently building: MERN full-stack projects and course assignments
-🩵  Learning: Advanced JavaScript, Node.js, and databases
-🩵  Ask me about: web dev fundamentals, deploying small apps, and school projects
+- 🩵 Currently building: MERN full-stack projects and course assignments
+- 🩵 Learning: Advanced JavaScript, Node.js, and databases
+- 🩵 Ask me about: web dev fundamentals, deploying small apps, and school projects
 
 ---
 
