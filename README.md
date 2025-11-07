@@ -1,6 +1,6 @@
 # Hi there, I'm Christina 🩵
 
-<img src="/.github/profile/Christina-avatar.png" width="160" style="height:auto; border-radius:8px;" alt="avatar" />
+<img src="/.github/profile/Christina-avatar.png" width="200" style="height:auto; border-radius:8px;" alt="avatar" />
 
 **Christina Mekheil** — Full Stack Developer/IT Technician
 
