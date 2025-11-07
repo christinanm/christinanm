@@ -2,7 +2,7 @@
 
 ![avatar](/.github/profile/Christina-avatar.png)
 
-**Christina Mekheil** — Full Stack Developer in training (Information Technology, Full Stack Programming)
+**Christina Mekheil** — Full Stack Developer/IT Technician
 
 Location: United States
 
@@ -10,17 +10,17 @@ Education: Central Piedmont Community College — Information Technology (Full S
 
 ---
 
-## About me
+## About
 
 I build small web apps and learning projects using the MERN stack, PHP, and modern frontend tooling. I'm a student and hobbyist developer focused on practical, project-based learning and improving my skills through coursework and hands-on projects.
 
-- 🩵  Currently building: MERN full-stack projects and course assignments
-- 🩵  Learning: Advanced JavaScript, Node.js, and databases
-- 🩵  Ask me about: web dev fundamentals, deploying small apps, and school projects
+🩵  Currently building: MERN full-stack projects and course assignments
+🩵  Learning: Advanced JavaScript, Node.js, and databases
+🩵  Ask me about: web dev fundamentals, deploying small apps, and school projects
 
 ---
 
-## Featured projects
+## Projects
 
 Here are some repositories you can check out (recent or notable):
 
